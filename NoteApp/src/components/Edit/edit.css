@@ -1,0 +1,16 @@
+
+.title,
+.content {
+  padding: 10px;
+}
+
+.title input {
+  width: 97%;
+  height: 32px;
+  padding-left: 10px;
+}
+
+.content textarea {
+  width: 97%;
+  padding-left: 10px;
+}

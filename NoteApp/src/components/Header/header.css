@@ -1,0 +1,32 @@
+.header {
+    color: #a30aff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: darkturquoise;
+    z-index: 1;
+  }
+  
+  .header-title {
+    position: relative;
+    left: 45%;
+  }
+  
+  .header-logout {
+    padding-top: 27px;
+  }
+
+  .header-title a span{
+    font-size: 25px;
+  }
+  
+  .header-logout span {
+    margin-right: 15px;
+    float: right;
+    cursor: pointer;
+  }
+  
+  .header-logout span i {
+    font-size: 20px;
+  }
+  
